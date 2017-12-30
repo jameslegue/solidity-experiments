@@ -1,5 +1,6 @@
 pragma solidity ^0.4.15;
 
+
 // Proof of Existence contract, version 3
 contract ProofOfExistence3 {
   
